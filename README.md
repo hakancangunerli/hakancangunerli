@@ -5,7 +5,7 @@ My name is John Gunerli. I am a 4th-year Computer Science student at Georgia Ins
 Given my antidisciplinary approach, my areas of focus generally coincide with what project I am working on. To name a few, however, I am interested in/work in the fields of:
 
 - Human-Centered Computing (Human-Computer Interaction/Human-Robot Interaction) 
-- Data Analytics & Visualization 
+- [Data Analytics](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Aanalytics&type=repositories) & [Data Visualization](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Adata-visualization&type=repositories)
 - Robotics (Human-robot interfaces, Perception)
 - Artificial Intelligence (Machine Perception , Machine Learning, Natural Language Processing) 
 
