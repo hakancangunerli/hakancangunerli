@@ -4,10 +4,12 @@ My name is John Gunerli. I am a 4th-year Computer Science student at Georgia Ins
 
 Given my antidisciplinary approach, my areas of focus generally coincide with what project I am working on. To name a few, however, I am interested in/work in the fields of:
 
-- Human-Centered Computing (Human-Computer Interaction/Human-Robot Interaction) 
+- Human-Centered Computing/Human-Computer Interaction (Collaborative AI, Intelligent Systems, Intelligent Interfaces, Affective Computing)
+- [Robotics](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Arobotics&type=repositories&ref=advsearch) (Human-Robot Interaction, Social Robotics)
+- Artificial Intelligence ([Computer Vision](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Acomputer-vision&type=repositories&ref=advsearch) , Machine Learning, [Natural Language Processing](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Anlp&type=repositories&ref=advsearch))
 - [Data Analytics](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Aanalytics&type=repositories) & [Data Visualization](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Adata-visualization&type=repositories)
-- [Robotics](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Arobotics&type=repositories&ref=advsearch) (Human-robot interfaces, Perception)
-- Artificial Intelligence (Machine Perception , Machine Learning, [Natural Language Processing](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Anlp&type=repositories&ref=advsearch)) 
+
+
 
 I'm pretty active here, so please feel free to DM or shoot me an email at john [at] hakancangunerli [dot] com. If it is a Georgia Tech-related subject and/or you need a faster way to reach at me, you can email me at hakancangunerli [at] gatech [dot] edu as well.
 
