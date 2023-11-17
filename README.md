@@ -6,8 +6,8 @@ Given my antidisciplinary approach, my areas of focus generally coincide with wh
 
 - Human-Centered Computing (Human-Computer Interaction/Human-Robot Interaction) 
 - [Data Analytics](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Aanalytics&type=repositories) & [Data Visualization](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Adata-visualization&type=repositories)
-- Robotics (Human-robot interfaces, Perception)
-- Artificial Intelligence (Machine Perception , Machine Learning, Natural Language Processing) 
+- [Robotics](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Arobotics&type=repositories&ref=advsearch) (Human-robot interfaces, Perception)
+- Artificial Intelligence (Machine Perception , Machine Learning, [Natural Language Processing](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Anlp&type=repositories&ref=advsearch)) 
 
 I'm pretty active here, so please feel free to DM or shoot me an email at john [at] hakancangunerli [dot] com. If it is a Georgia Tech-related subject and/or you need a faster way to reach at me, you can email me at hakancangunerli [at] gatech [dot] edu as well.
 
