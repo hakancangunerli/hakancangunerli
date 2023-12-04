@@ -4,10 +4,13 @@ My name is John Gunerli. I am a 4th-year Computer Science student at Georgia Ins
 
 Given my antidisciplinary approach, my areas of focus generally coincide with what project I am working on. To name a few, however, I am interested in/work in the fields of:
 
-- Human-Centered Computing/Human-Computer Interaction (Collaborative AI, Intelligent Systems, Intelligent Interfaces, Affective Computing)
+- Human-Centered Computing/Human-Computer Interaction ([Collaborative AI](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Acollaborative-ai&type=repositories) , [Intelligent Interface Design](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Aanalytics&type=repositories), Affective Computing)
 - [Robotics](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Arobotics&type=repositories&ref=advsearch) (Human-Robot Interaction, Social Robotics)
-- Artificial Intelligence ([Computer Vision](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Acomputer-vision&type=repositories&ref=advsearch) , Machine Learning, [Natural Language Processing](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Anlp&type=repositories&ref=advsearch))
+- Artificial Intelligence ([Computer Vision](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Acomputer-vision&type=repositories&ref=advsearch) , Machine Learning, [Natural Language Processing](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Anlp&type=repositories&ref=advsearch), [Reinforcement Learning](https://github.com/search?q=user%3Ajohngunerli+user%3Ahakancangunerli+topic%3Areinforcement-learning&type=repositories&ref=advsearch),)
 - [Data Analytics](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Aanalytics&type=repositories) & [Data Visualization](https://github.com/search?q=owner%3Ahakancangunerli+owner%3Ajohngunerli+topic%3Adata-visualization&type=repositories)
+
+
+
 
 
 
