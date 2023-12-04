@@ -16,6 +16,6 @@ Given my antidisciplinary approach, my areas of focus generally coincide with wh
 
 I'm pretty active here, so please feel free to DM or shoot me an email at john [at] hakancangunerli [dot] com. If it is a Georgia Tech-related subject and/or you need a faster way to reach at me, you can email me at hakancangunerli [at] gatech [dot] edu as well.
 
-[In case you are looking for my resume, here it is.](https://github.com/63616e/cv-resume/blob/master/MOST%20RECENT%20Hakan%20C.%20Gunerli%20.pdf)
+[In case you are looking for my resume, here it is.](https://github.com/johngunerli/resume/blob/master/resume.pdf)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancangunerli&layout=compact&hide=tex,html,shell,CSS,Ruby,Makefile,EmberScript,MATLAB,C,Jupyter%20Notebook&langs_count=6&exclude_repo=2015-csharp,gt_code,gsu_code,uga_code,uga_robotics)
